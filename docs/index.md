@@ -8,4 +8,4 @@ This is my personal space where I share my thoughts, experiences, and projects.
 - 🤖 AI & Machine Learning Enthusiast  
 - 🌎 Passionate about Industry 5.0  
 
-Thanks for visiting! 😊
+👉 **[Contact Me](./contact.md)**  

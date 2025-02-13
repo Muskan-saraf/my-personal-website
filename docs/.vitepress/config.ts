@@ -5,4 +5,11 @@ export default defineConfig({
 
   title: "Muskan's Site",
   description: "A simple personal homepage",
+
+  themeConfig: {
+    nav: [
+      { text: "Home", link: "/" },
+      { text: "Contact", link: "/contact" }, // ✅ Added Contact Me page
+    ]
+  }
 })
