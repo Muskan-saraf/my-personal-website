@@ -9,7 +9,8 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: "Home", link: "/" },
-      { text: "Contact", link: "/contact" }, // ✅ Added Contact Me page
+      { text: "About", link: "/about" },  // ✅ Added About page
+      { text: "Contact", link: "/contact" },
     ]
   }
 })

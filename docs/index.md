@@ -9,3 +9,4 @@ This is my personal space where I share my thoughts, experiences, and projects.
 - 🌎 Passionate about Industry 5.0  
 
 👉 **[Contact Me](./contact.md)**  
+👉 **[Learn more about me](./about.md)**
