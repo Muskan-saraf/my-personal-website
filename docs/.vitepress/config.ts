@@ -1,6 +1,8 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  base: "/my-personal-website/",  // <-- Add this line
+
   title: "Muskan's Blog",
   description: "A space where I share everything about me",
   themeConfig: {
@@ -10,8 +12,8 @@ export default defineConfig({
       { text: "About", link: "/about" },
     ],
     socialLinks: [
-      { icon: "github", link: "https://github.com/yourusername" },
+      { icon: "github", link: "https://github.com/Muskan-saraf" },
       { icon: "linkedin", link: "https://linkedin.com/in/yourname" }
     ],
   },
-})
+});
